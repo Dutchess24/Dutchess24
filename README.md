@@ -2,7 +2,7 @@
 - 👀 I’m interested in software development and fullstack web development
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on any projects that revolve around coming up with softwares or websites
-- 📫 How to reach me savaikimberly3452gmail.com 
+- 📫 How to reach me savaikimberly345@gmail.com 
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: A group of owls is called a parliament
 
